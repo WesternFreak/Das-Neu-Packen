@@ -5,7 +5,8 @@ A carefuly crafted modpack
 
 Mod list:
 ======
-Link to be added soon
+[List here!](https://github.com/WesternFreak/Das-Neu-Packen/blob/master/modlist.txt)
+This list is NOT final: mods can be added if interesting enough, mods can be removed if they break or if permission issues arise.
 
 What makes this pack different?
 ======
