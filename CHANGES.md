@@ -38,7 +38,7 @@
 #### routerreborn ####
 * disabled pickaxe
 
-#### tinkers construct #### 
+#### tinkers construct ####
 * added jerky to leather recipe for the drying rack
 * disabled ore bush generation (and villager trading of oreberries)
 * disabled ore doub
