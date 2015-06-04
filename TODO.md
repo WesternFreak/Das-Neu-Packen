@@ -11,3 +11,4 @@
 * test more mods (TC + addons)
 * sketch a custom main menu
 * organize default keybinds
+* clean unused NEI entries

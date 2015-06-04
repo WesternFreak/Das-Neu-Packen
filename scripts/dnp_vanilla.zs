@@ -45,3 +45,9 @@ recipes.addShaped(ironDoor * 3,
 	[ironIngot, ironIngot],
 	[ironIngot, ironIngot]]);
 
+// recipe to empty a water bucket
+
+recipes.addShaped(<minecraft:bucket>, [
+[null, null, null], 
+[null, <minecraft:water_bucket>.giveBack(), null], 
+[null, null, null]]);

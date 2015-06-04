@@ -59,7 +59,6 @@
 * disabled uncrafting table
 
 #### vanilla ####
-
 * added 1.8 recipes for fences and doors
 * added clay uncrafting
 * added ladder to furnace fuels
