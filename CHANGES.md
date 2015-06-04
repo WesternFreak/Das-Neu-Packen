@@ -14,28 +14,36 @@
 * reduced flower generation density by 37.5%
 * use alternate flower textures
 
+#### bspkrs ####
+* disabled main menu mobs
+
 #### bugfix mod
 * enabled arrow ding
 * enabled chicken lure fix
 * enabled item hopper/stair bounce fix
 
-#### cofhcore ####
+#### cofh core ####
 * world generates a flat bedrock
 * world uses the mod's ore generation settings (custom TPPI's settings)
 
 #### chickencore ####
 * enabled environmentally friendly creepers
 
-#### denseores ####
+#### dense ores ####
 * added copper, tin, silver, lead, nickel, yellorite, cobalt, ardite, aluminum, quartz and charged quartz
 
-#### enderstorage ####
+#### emashercore ####
+* disabled bauxite, cassiterite, galena, native copper and pentlandite generation
+* reduced limonite generation by 25%
+* reduced max depth for algae spread to 1
+
+#### ender storage ####
 * increased inventory to 6x9
 
-#### nonausea ####
+#### no nausea ####
 * nausea tilts the camera
 
-#### routerreborn ####
+#### router reborn ####
 * disabled pickaxe
 
 #### tinkers construct ####
@@ -55,11 +63,3 @@
 * added clay uncrafting
 * added ladder to furnace fuels
 * added multi chest crafting
-
-#### bspkrs ####
-* disabled main menu mobs
-
-#### emashercore ####
-* disabled bauxite, cassiterite, galena, native copper and pentlandite generation
-* reduced limonite generation by 25%
-* reduced max depth for algae spread to 1
