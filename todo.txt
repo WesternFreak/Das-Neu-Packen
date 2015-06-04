@@ -1,6 +1,0 @@
-define ore distribution using cofh
-sketch a custom main menu
-organize the keybinds
-create some custom agricraft crops (IC2 style)
-decide on a iguana tinker tweaks level up progression
-ADDITIONAL MODS REQUIRED
