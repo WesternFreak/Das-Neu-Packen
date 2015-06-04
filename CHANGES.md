@@ -48,6 +48,7 @@
 
 #### tinkers construct ####
 * added jerky to leather recipe for the drying rack
+* chainmail in the smeltery outputs iron instead of steel (via Regrowth modpack)
 * disabled ore bush generation (and villager trading of oreberries)
 * disabled ore doub
 * disabled ore gravel generation
