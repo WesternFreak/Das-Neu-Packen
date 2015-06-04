@@ -1,14 +1,12 @@
 ![](http://i.imgur.com/kgvD98a.png)
 # _Das Neu Packen_ - a carefully crafted Minecraft modpack
 
-Mod list:
-======
+## Mod list: ###
 You can find the current list [here](https://github.com/WesternFreak/Das-Neu-Packen/blob/master/modlist.txt).
 
 This list is NOT final: mods can be added if interesting enough, mods can be removed if they break or if permission issues arise.
 
-What makes this pack different?
-======
+## What makes this pack different? ###
 Every mod is handpicked after thorough consideration and its configurations edited to their best with both the harmony of the pack and player experience in mind. The pack does the tweaks so you don't have to.
 
 Features include, but are not limited to:
