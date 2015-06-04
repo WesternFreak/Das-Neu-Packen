@@ -15,11 +15,3 @@ mods.tconstruct.Smeltery.addMelting(<minecraft:chainmail_boots>, <liquid:iron.mo
 mods.tconstruct.Smeltery.addMelting(<minecraft:chainmail_chestplate>, <liquid:iron.molten> * 1152, 800, <minecraft:iron_block>);
 mods.tconstruct.Smeltery.addMelting(<minecraft:chainmail_helmet>, <liquid:iron.molten> * 720, 800, <minecraft:iron_block>);
 mods.tconstruct.Smeltery.addMelting(<minecraft:chainmail_leggings>, <liquid:iron.molten> * 1008, 800, <minecraft:iron_block>);
-mods.mariculture.Crucible.removeRecipe(<minecraft:chainmail_boots>);
-mods.mariculture.Crucible.removeRecipe(<minecraft:chainmail_chestplate>);
-mods.mariculture.Crucible.removeRecipe(<minecraft:chainmail_helmet>);
-mods.mariculture.Crucible.removeRecipe(<minecraft:chainmail_leggings>);
-mods.mariculture.Crucible.addRecipe(800, <minecraft:chainmail_boots>, <liquid:iron.molten> * 576);
-mods.mariculture.Crucible.addRecipe(800, <minecraft:chainmail_chestplate>, <liquid:iron.molten> * 1152);
-mods.mariculture.Crucible.addRecipe(800, <minecraft:chainmail_helmet>, <liquid:iron.molten> * 720);
-mods.mariculture.Crucible.addRecipe(800, <minecraft:chainmail_leggings>, <liquid:iron.molten> * 1008);
