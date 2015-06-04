@@ -63,3 +63,4 @@
 * added clay uncrafting
 * added ladder to furnace fuels
 * added multi chest crafting
+* disabled baby zombies
