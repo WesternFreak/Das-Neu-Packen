@@ -46,13 +46,17 @@
 #### router reborn ####
 * disabled pickaxe
 
+#### thermal expansion ####
+* disabled steel recipes in the alloy smelter
+
 #### tinkers construct ####
 * added jerky to leather recipe for the drying rack
-* chainmail in the smeltery outputs iron instead of steel (via Regrowth modpack)
+* chainmail in the smeltery outputs iron instead of steel (shamelessly ripped off from the modpack "Regrowth")
 * disabled ore bush generation (and villager trading of oreberries)
-* disabled ore doub
 * disabled ore gravel generation
+* disabled smeltery ore doubling
 * disabled tin and copper generation
+* smeltery produces Thermal Expansion ingots and blocks where applicable (i.e., copper, bronze and tin)
 
 #### twilight forest ####
 * disabled cicadas' sound
@@ -63,4 +67,8 @@
 * added clay uncrafting
 * added ladder to furnace fuels
 * added multi chest crafting
+* added water bucket "uncrafting"
 * disabled baby zombies
+
+#### waila ####
+* harvestability module on sneak only
