@@ -56,6 +56,7 @@
 * disabled ore bush generation (and villager trading of oreberries)
 * disabled ore gravel generation
 * disabled smeltery ore doubling
+* disabled starter book
 * disabled tin and copper generation
 * smeltery produces Thermal Expansion ingots and blocks where applicable (i.e., copper, bronze and tin)
 
