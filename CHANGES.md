@@ -26,9 +26,6 @@
 * world generates a flat bedrock
 * world uses the mod's ore generation settings (custom TPPI's settings)
 
-#### chickencore ####
-* enabled environmentally friendly creepers
-
 #### dense ores ####
 * added copper, tin, silver, lead, nickel, yellorite, cobalt, ardite, aluminum, quartz and charged quartz
 
