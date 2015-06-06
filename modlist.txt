@@ -9,6 +9,7 @@ airoverhaul 1.0
 appliedenergistics2 rv2-stable-5
 babyanimals 1.7.10
 baubles 1.0.1.10
+betterboat 1.0.0
 bdlib 1.8.0.87
 betterfps 1.0.0
 betterhorsehud 1.0
@@ -60,6 +61,7 @@ reliquary 1.2.257
 roguelike 1.3.6.3
 routerreborn 1.2.08
 runicdungeons 1.1.4
+sapmanpack 2.5.1
 simplyjetpacks 1.5.1
 specialmobs 3.1.1
 stackie 1.6.0.35
