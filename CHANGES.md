@@ -43,6 +43,10 @@
 #### router reborn ####
 * disabled pickaxe
 
+#### special mobs ####
+* disabled "thief and "hungry" modifiers
+* disabled "trolling" config setting
+
 #### thermal expansion ####
 * disabled steel recipes in the alloy smelter
 
