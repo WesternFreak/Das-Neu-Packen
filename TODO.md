@@ -12,3 +12,4 @@
 * sketch a custom main menu
 * organize default keybinds
 * clean unused NEI entries
+* write scripts to prevent copper/tin/silver blocks to uncraft in ingots different than Thermal ones
