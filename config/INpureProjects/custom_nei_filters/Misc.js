@@ -36,7 +36,7 @@ if (FML.isModLoaded("ThaumicTinkerer")) {
 	NEI.hide("ThaumicTinkerer:forcefield");
 	NEI.hide("ThaumicTinkerer:infusedInkwell");
 }
-if (FML.isModLoaded("thaumcraftneilugin")) {
+if (FML.isModLoaded("thaumcraftneiplugin")) {
 	NEI.hide("thaumcraftneiplugin:Aspect");         
 }
 if (FML.isModLoaded("Thaumcraft")) {
@@ -49,4 +49,5 @@ if (FML.isModLoaded("Thaumcraft")) {
 	NEI.hide("Thaumcraft:blockHole");
 	NEI.hide("Thaumcraft:blockPortalEldritch");
 	NEI.hide("Thaumcraft:blockEldritchNothing");
+	NEI.override("Thaumcraft:ItemWispEssence", [0]);
 }
