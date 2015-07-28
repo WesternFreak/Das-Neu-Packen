@@ -1,0 +1,154 @@
+{
+    "images": {},
+    "buttons": {
+        "singleplayer": {
+            "text": "menu.singleplayer",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -184,
+            "posY": -80,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "singleplayer"
+            }
+        },
+        "multiplayer": {
+            "text": "menu.multiplayer",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -184,
+            "posY": -60,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "multiplayer"
+            }
+        },
+        "mods": {
+            "text": "Mods",
+            "hoverText": "#modsactive# Active Mods",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -184,
+            "posY": -40,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "mods"
+            }
+        },
+        "options": {
+            "text": "menu.options",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -184,
+            "posY": 0,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "openGui",
+                "gui": "options"
+            }
+        },
+        "Quit": {
+            "text": "menu.quit",
+            "hoverText": "See ya!",
+            "texture": "mainmenu:textures/button.png",
+            "posX": -184,
+            "posY": 20,
+            "width": 170,
+            "height": 20,
+            "alignment": "center",
+            "action": {
+                "type": "quit"
+            }
+        },
+        "Language": {
+            "text": "",
+            "texture": "mainmenu:textures/globe.png",
+            "tooltip": "Language",
+            "posX": -126,
+            "posY": 64,
+            "width": 12,
+            "height": 12,
+            "alignment": "center",
+            "imageWidth": 20,
+            "imageHeight": 20,
+            "action": {
+                "type": "openGui",
+                "gui": "languages"
+            }
+        },
+        "External Information": {
+            "text": "",
+            "texture": "mainmenu:textures/info.png",
+            "tooltip": "About DNP",
+            "posX": -106,
+            "posY": 64,
+            "width": 12,
+            "height": 12,
+            "alignment": "center",
+            "imageWidth": 20,
+            "imageHeight": 20,
+            "action": {
+                "type": "openLink",
+                "link": "https://github.com/WesternFreak/Das-Neu-Packen"
+            }
+        },
+        "Refresh": {
+            "text": "",
+            "texture": "mainmenu:textures/refresh.png",
+            "tooltip": "Refresh UI",
+            "posX": -86,
+            "posY": 64,
+            "width": 12,
+            "height": 12,
+            "alignment": "center",
+            "imageWidth": 20,
+            "imageHeight": 20,
+            "action": {
+                "type": "refresh"
+            }
+        }
+    },
+    "texts": {
+        "Mojang": {
+            "text": "Copyright Mojang AB",
+            "posX": -106,
+            "posY": -10,
+            "alignment": "bottom_right",
+            "color": -1
+        },
+        "Minecraft Version": {
+            "text": "Minecraft #mcversion#",
+            "posX": -81,
+            "posY": -19,
+            "alignment": "bottom_right",
+            "color": -1
+        },
+        "Forge Version": {
+            "text": "Forge #forgeversion#",
+            "posX": 2,
+            "posY": -10,
+            "alignment": "bottom_left",
+            "color": -1
+        },
+        "Pack Version": {
+            "text": "Das Neu Packen Indev",
+            "posX": 2,
+            "posY": -19,
+            "alignment": "bottom_left",
+            "color": -1
+        }
+    },
+    "other": {
+        "background": {
+            "image": "mainmenu:textures/background.png",
+            "mode": "stretch"
+        }
+    }
+}
