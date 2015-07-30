@@ -33,6 +33,10 @@ A list of changes and tweaks can be found in the modpack's github repository. Yo
 ~
 As always, NEI is the best possible companion for any modded experience.
 ~~~
+Additionally, if you feel the need to check more documentation for a mod you can use the command "/docs <name>".~
+~
+As an example, "/docs waila" would display links for the mods WAILA, WAILA Harvestability and WAILA Plugins.
+~
 This modpack is still in development. It's a one man task and there are so many different mods and interactions between them.~
 ~
 Mods can be added and removed at any time and older worlds can be incompatible with newer versions.
