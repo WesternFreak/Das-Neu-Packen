@@ -28,6 +28,9 @@
 * enabled chicken lure fix
 * enabled item hopper/stair bounce fix
 
+#### buildcraft ####
+* disabled water springs from worldgen
+
 ### chisel 2 ####
 * chisels can't be damaged
 * disabled andesite, diorite, granite, limestone and marble worldgen
@@ -48,6 +51,16 @@
 
 #### ender storage ####
 * increased inventory to 6x9
+
+### iguana tinker tweaks ####
+* Disabled autosmelt, fiery, luck/looting and silk touch modifiers from the random bonuses since they can "ruin" a tool for someone
+* Disabled bronze's diamond requirement to increase a tier, steel is now mandatory to progress
+* Newly created tools now have an extra modifier
+* Tool level cap raised to 15 levels
+* Tools recieve a random bonus at levels 1, 5, 8, 11 and 15
+* Tools recieve an extra modifier at levels 2, 6, 10 and 14 and 15
+* XP (boosted) required per level decreased from 1.12 to 1.11
+* XP (regular) required per level decreased from 1.15 to 1.13
 
 #### inpure projects ####
 * added more NEI culling of several mods' duplicated items (e.g. all Agricraft tanks are now hidden but one)

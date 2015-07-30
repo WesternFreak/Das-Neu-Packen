@@ -1,0 +1,48 @@
+**This is the file that ModpackTweaks reads its info from, it is used for changelogs and information on the modpack**
+**To add to the file, type what you want, and separate pages by using the phrase ~~~ **
+**The code will interpret "~~~" as a page break, and format the book accordingly**
+**In addition, adding a "~" to the end of a line will add a line break**
+**Two asterisks at the beginning of a line is a comment**
+**Three asterisks and a number will skip that amount of lines following**
+
+***12
+Example:
+This is some very useful info
+And I am typing it on multiple lines
+to make this text file easier to read.
+These lines don't have line breaks between them
+in the book though because they don't end with "~".
+~~~
+Now I am on page 2~
+Now I am one line down~
+~
+Now I am after a blank line
+
+**Begin book text after asterisks**
+****************************************************************************
+~
+~
+~
+~
+~
+Hello and welcome to DNP - Das Neu Packen.
+**~~~
+**Should you want to read the latest changes in-game all you need to do is use the command "/dnp changelog" to recieve a book. The book will always display the latest changes, there is no need to request another one with every update.
+~~~
+A list of changes and tweaks can be found in the modpack's github repository. You can reach it by clicking the button "About DNP" in the main menu.~
+~
+As always, NEI is the best possible companion for any modded experience.
+~~~
+This modpack is still in development. It's a one man task and there are so many different mods and interactions between them.~
+~
+Mods can be added and removed at any time and older worlds can be incompatible with newer versions.
+~~~
+Don't hesitate in giving me your feedback regarding all the changes and mods it includes.~
+~
+However, please note that this modpack is highly based in my personal experience and enjoyment, which can be very different from your own taste. 
+~~~
+Thank you for trying DNP, hopefully you can enjoy it as much I do.~
+~
+Have fun.~
+~
+- WesternFreak
