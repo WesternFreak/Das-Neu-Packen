@@ -37,7 +37,7 @@ recipes.addShapeless(PureFluix * 2, [<ore:dustFluix>, <minecraft:sand>]);
 recipes.addShapeless(PureCertusCrystal * 2, [<ore:dustCertusQuartz>, <minecraft:sand>]);
 
 // add fluix crystal crafting
-recipes.addShapeless(FluixCrystal * 2, [<ore:crystalFluix>, <minecraft:redstone>, <minecraft:quartz>]);
+recipes.addShapeless(FluixCrystal * 2, [<ore:crystalChargedCertusQuartz>, <minecraft:redstone>, <minecraft:quartz>]);
 
 // add press recipes
 recipes.addShapeless(InscriberCalc, [IronPressurePlate, CertusKnife, ChargedCertus, PureCertusCrystal]);
