@@ -7,7 +7,10 @@
 #### ae2 ####
 * added crafting recipes for press inscribers
 * added crystal crafting recipes
+* disabled grindstone
+* disabled in-world crafting (like the growing seeds mechanic)
 * disabled meteorite generation (and everything associated with it)
+* disabled quartz tools (except knife)
 
 #### agricraft ####
 * breaking water tanks no longer spawns water source blocks
@@ -63,7 +66,7 @@
 * XP (regular) required per level decreased from 1.15 to 1.13
 
 #### inpure projects ####
-* added more NEI culling of several mods' duplicated items (e.g. all Agricraft tanks are now hidden but one)
+* added more NEI culling of several mods' duplicated and techical blocks/items (e.g. all Agricraft tanks are now hidden but one)
 
 #### minefactory reloaded ####
 * disabed worldgen lakes
