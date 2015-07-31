@@ -14,6 +14,7 @@ Features include, but are not limited to:
 * Custom ore spawning algorithms (required mining depth follows your progress through the tool tiers)
 * Quality of life recipes for the player's convenience (clay decrafting, etc)
 * Player-nagging free configs (no update warnings)
+* NEI culling (removing duplicated/technical/useless entries) for faster recipe lookups
 * A custom main menu
 
 You can find all the changes [here](https://github.com/WesternFreak/Das-Neu-Packen/blob/master/CHANGES.md).

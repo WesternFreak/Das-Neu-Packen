@@ -66,7 +66,7 @@
 * XP (regular) required per level decreased from 1.15 to 1.13
 
 #### inpure projects ####
-* added more NEI culling of several mods' duplicated and techical blocks/items (e.g. all Agricraft tanks are now hidden but one)
+* added more NEI culling of several mods' duplicated and techical blocks/items, bringing the total number of NEI pages [down to about half](http://i.imgur.com/y9o2kxN.jpg)
 
 #### minefactory reloaded ####
 * disabed worldgen lakes
@@ -131,4 +131,4 @@
 * moved popup location
 
 #### ztones ####
-* disabled all items and tools
+* disabled all items and tools (except the Ofanix)
