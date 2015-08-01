@@ -55,7 +55,7 @@
 #### ender storage ####
 * increased inventory to 6x9
 
-### iguana tinker tweaks ####
+#### iguana tinker tweaks ####
 * Disabled autosmelt, fiery, luck/looting and silk touch modifiers from the random bonuses since they can "ruin" a tool for someone
 * Disabled bronze's diamond requirement to increase a tier, steel is now mandatory to progress
 * Newly created tools now have an extra modifier
@@ -74,7 +74,7 @@
 #### no nausea ####
 * nausea tilts the camera
 
-### roguelike dungeons ####
+#### roguelike dungeons ####
 * disabled "preciousblocks", "donoveltyspawn" and "generous" configs
 
 #### router reborn ####

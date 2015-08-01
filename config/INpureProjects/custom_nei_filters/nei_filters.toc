@@ -13,4 +13,3 @@ Bibliocraft.js
 AppliedEnergistics2.js
 Tcon.js
 MFR.js
-Misc.js

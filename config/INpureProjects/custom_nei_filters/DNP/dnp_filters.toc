@@ -1,0 +1,29 @@
+## Title: DNP_filters
+## Author: WesternFreak
+## Version: 1.0
+Agricraft.js
+Baubles.js
+Binnie.js
+BloodMagic.js
+Botania.js
+Chisel.js
+ComputerCraft.js
+EnderIO.js
+ExtraCells.js
+FFS.js
+FlatSigns.js
+ForbiddenMagic.js
+Forestry.js
+Gendustry.js
+HelperTools.js
+IguanaTinkerTweaks.js
+Mantle.js
+RFTools.js
+RunicDungeons.js
+Thaumcraft.js
+ThaumcraftNEI.js
+ThaumicBases.js
+ThaumicTinkerer.js
+TwilightForest.js
+WitchingGadgets.js
+Ztones.js
