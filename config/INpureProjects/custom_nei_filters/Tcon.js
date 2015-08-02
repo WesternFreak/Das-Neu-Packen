@@ -1,11 +1,4 @@
 if (FML.isModLoaded("TConstruct") && Tcon_enabled) {
-    NEI.hide("TConstruct:Pattern");
-    NEI.hide("TConstruct:buckets");
-    NEI.hide("TConstruct:woodPattern");
-    NEI.override("TConstruct:GlassBlock.StainedClear", [0]);
-    NEI.override("TConstruct:GlassPaneClearStained", [0]);
-    NEI.override("TConstruct:ToolForgeBlock", [0]);
-    NEI.override("TConstruct:ToolStationBlock", [0, 1, 5, 10]);
     NEI.hide("TConstruct:ArrowAmmo");
     NEI.hide("TConstruct:BattleSignBlock");
     NEI.hide("TConstruct:BoltAmmo");
@@ -14,12 +7,14 @@ if (FML.isModLoaded("TConstruct") && Tcon_enabled) {
     NEI.hide("TConstruct:HeldItemBlock");
     NEI.hide("TConstruct:Javelin");
     NEI.hide("TConstruct:LongBow");
+    NEI.hide("TConstruct:Pattern");
     NEI.hide("TConstruct:ShortBow");
     NEI.hide("TConstruct:Shuriken");
     NEI.hide("TConstruct:ThrowingKnife");
     NEI.hide("TConstruct:battleaxe");
     NEI.hide("TConstruct:battlesign");
     NEI.hide("TConstruct:broadsword");
+    NEI.hide("TConstruct:buckets");
     NEI.hide("TConstruct:chisel");
     NEI.hide("TConstruct:cleaver");
     NEI.hide("TConstruct:cutlass");
@@ -35,5 +30,10 @@ if (FML.isModLoaded("TConstruct") && Tcon_enabled) {
     NEI.hide("TConstruct:rapier");
     NEI.hide("TConstruct:scythe");
     NEI.hide("TConstruct:shovel");
+    NEI.hide("TConstruct:woodPattern");
+    NEI.override("TConstruct:GlassBlock.StainedClear", [0]);
+    NEI.override("TConstruct:GlassPaneClearStained", [0]);
+    NEI.override("TConstruct:ToolForgeBlock", [0]);
+    NEI.override("TConstruct:ToolStationBlock", [0, 1, 5, 10]);
     NEI.override("TConstruct:creativeModifier", [0]);
 }
