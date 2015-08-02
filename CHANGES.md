@@ -4,7 +4,17 @@
 * disabled forge splash screen
 * disabled version checking for all possible mods
 
+#### vanilla ####
+* added 1.8 fences and door crafting recipes
+* added bulk chest crafting recipe
+* added clay uncrafting
+* added ladders and bowls to furnace fuels
+* added water bucket "uncrafting"
+* disabled baby zombies
+* fixed cake recipes not using other milks 
+
 #### ae2 ####
+* added crafting recipe for sky stone
 * added crafting recipes for press inscribers
 * added crystal crafting recipes
 * disabled grindstone
@@ -21,7 +31,7 @@
 * disabled normal flower particles
 * disabled references
 * reduced flower generation density by 37.5%
-* use alternate flower textures
+* used alternate flower textures
 
 #### bspkrs ####
 * disabled main menu mobs
@@ -35,9 +45,12 @@
 * disabled water springs from worldgen
 
 ### chisel 2 ####
+* added chiseling for several items of different mods, most notably, Ztone chiseling
 * chisels can't be damaged
 * disabled andesite, diorite, granite, limestone and marble worldgen
 * disabled brick to mossy convertion
+* disabled worldgen tooltip
+* fixed most of the issues (pillar crafting, stairs, ice stuff, etc)
 * iron chisel can't left-click
 * reduced particle tick rate by 400%
 
@@ -55,6 +68,11 @@
 #### ender storage ####
 * increased inventory to 6x9
 
+#### helper tools ####
+* disabled milks
+* disabled slab to block recipes
+* disabled WIP items and blocks
+
 #### iguana tinker tweaks ####
 * Disabled autosmelt, fiery, luck/looting and silk touch modifiers from the random bonuses since they can "ruin" a tool for someone
 * Disabled bronze's diamond requirement to increase a tier, steel is now mandatory to progress
@@ -66,7 +84,7 @@
 * XP (regular) required per level decreased from 1.15 to 1.13
 
 #### inpure projects ####
-* added more NEI culling of several mods' duplicated and techical blocks/items, bringing the total number of NEI pages [down to about half](http://i.imgur.com/y9o2kxN.jpg)
+* added more NEI culling of several mods' duplicated and techical blocks/items, bringing the total number of NEI pages [down to under half](http://i.imgur.com/4ho0Ki2.jpg)
 
 #### minefactory reloaded ####
 * disabed worldgen lakes
@@ -93,6 +111,7 @@
 * disabled imbued fire
 
 #### thermal expansion ####
+* added an efficient stick recipe to TE's sawmill
 * disabled steel recipes in the alloy smelter
 
 #### thermal foundation ####
@@ -100,8 +119,9 @@
 * disabled tools
 * hidden disabled equipment
 
-#### tinkers construct ####
-* added jerky to leather recipe for the drying rack
+#### tinkers' construct ####
+* added crafting recipe for green heart and green heart canister
+* added jerky to leather drying rack recipe
 * chainmail in the smeltery outputs iron instead of steel (shamelessly ripped off from the modpack "Regrowth")
 * disabled ore bush generation (and villager trading of oreberries)
 * disabled ore gravel generation
@@ -110,17 +130,20 @@
 * disabled tin and copper generation
 * smeltery produces Thermal Expansion ingots and blocks where applicable (i.e., copper, bronze and tin)
 
+#### tinkers' steelworks ####
+* added sugar block smelting
+* added TNT bulk crafting with the gunpowder block
+
+#### ttCore ####
+* disabled extra debug in tooltips
+* disabled slab to block recipes
+
+#### tubestuff ####
+* disabled storage blocks
+
 #### twilight forest ####
 * disabled cicadas' sound
 * disabled uncrafting table
-
-#### vanilla ####
-* added 1.8 recipes for fences and doors
-* added clay uncrafting
-* added ladder to furnace fuels
-* added multi chest crafting
-* added water bucket "uncrafting"
-* disabled baby zombies
 
 #### waila (and add-ons) ####
 * disabled light level tooltips
