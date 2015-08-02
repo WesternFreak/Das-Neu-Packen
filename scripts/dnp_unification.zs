@@ -68,13 +68,13 @@ var copperBlockTC = <TConstruct:MetalBlock:3>;
 var copperBlockTE = <ThermalFoundation:Storage>;
 var copperIngotTC = <TConstruct:materials:9>;
 var copperIngotTE = <ThermalFoundation:material:64>;
+var gearCast = <TConstruct:gearCast>;
 var goldBerry = <TConstruct:oreBerries:1>;
 var tinBerry = <TConstruct:oreBerries:3>;
 var tinBlockTC = <TConstruct:MetalBlock:5>;
 var tinBlockTE = <ThermalFoundation:Storage:1>;
 var tinIngotTC = <TConstruct:materials:10>;
 var tinIngotTE = <ThermalFoundation:material:65>;
-var gearCast = <TConstruct:gearCast>;
 
 // removes TCon's bronze, copper and tin ingots
 NEI.hide(bronzeIngotTC);

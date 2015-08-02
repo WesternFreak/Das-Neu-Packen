@@ -46,7 +46,7 @@
 * disabled water springs from worldgen
 
 #### chisel 2 ####
-* added chiseling for several blocks of different mods, like Ztone amd Botania
+* added chiseling for several blocks of different mods, like Ztone and Botania
 * chisels can't be damaged
 * disabled andesite, diorite, granite, limestone and marble worldgen
 * disabled brick to mossy convertion
@@ -87,7 +87,7 @@
 * xp (regular) required per level decreased from 1.15 to 1.13
 
 #### inpure projects ####
-* added more NEI culling of several mods' duplicated and techical blocks/items, bringing the total number of NEI pages [down to under half](http://i.imgur.com/4ho0Ki2.jpg)
+* added more NEI culling of several mods' duplicated and techical blocks/items
 
 #### minefactory reloaded ####
 * disabed worldgen lakes

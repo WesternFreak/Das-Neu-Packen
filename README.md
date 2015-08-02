@@ -10,11 +10,11 @@ This list is NOT final: mods can be added if interesting enough, mods can be rem
 Every mod is handpicked after thorough consideration and its configurations edited to their best with both the harmony of the pack and player experience in mind. The pack does the tweaks so you don't have to.
 
 Features include, but are not limited to:
-* Tweaked IguanaTinkerTweaks configs for a longer TCon tool experience
+* A [custom main menu](http://i.imgur.com/GCcz8Ig.png)
 * Custom ore spawning algorithms (required mining depth follows your progress through the tool tiers)
-* Quality of life recipes for the player's convenience (clay decrafting, etc)
+* Improved NEI culling (removing duplicated/technical/useless entries), the number of pages [has been cut to half](http://i.imgur.com/4ho0Ki2.jpg)
 * Player-nagging free configs (no update warnings)
-* NEI culling (removing duplicated/technical/useless entries) for faster recipe lookups
-* A custom main menu
+* Quality of life recipes for the player's convenience (clay decrafting, etc)
+* Tweaked IguanaTinkerTweaks configs for a [longer TCon tool experience](https://github.com/WesternFreak/Das-Neu-Packen/blob/master/CHANGES.md#iguana-tinker-tweaks)
 
 You can find all the changes [here](https://github.com/WesternFreak/Das-Neu-Packen/blob/master/CHANGES.md).
