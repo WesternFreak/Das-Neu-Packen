@@ -1,15 +1,11 @@
 # todo #
 
-#### next ####
-* define ore (and stones) distribution using cofh
-* create some custom agricraft crops (original IC2 + others)
-* decide on iguana tinker tweaks level up progression
-
-#### later ####
-* create some custom agricraft crops (original IC2 + others)
-* test the current game "balance"
-* test more mods (TC + addons)
-* sketch a custom main menu
-* organize default keybinds
-* clean unused NEI entries
-* write scripts to prevent copper/tin/silver blocks to uncraft in ingots different than Thermal ones
+* add Thaumcraft aspects:
+  * Botania
+  * ...what else?
+* custom agricraft crops (maybe)
+* fix everything chisel:
+  * seared brick and slab chiseling (nether versions too)
+  * unhide stairs now that they're fixed
+* default keybinds
+* test, test, test

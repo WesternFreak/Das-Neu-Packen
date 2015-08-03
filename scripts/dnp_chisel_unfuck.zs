@@ -157,6 +157,14 @@ mods.chisel.Groups.addVariation("marble", <chisel:marble_pillar:13>);
 mods.chisel.Groups.addVariation("marble", <chisel:marble_pillar:14>);
 mods.chisel.Groups.addVariation("marble", <chisel:marble_pillar:15>);
 
+// fix voidstone pillar recipes
+recipes.remove(<chisel:voidstonePillar>);
+recipes.remove(<chisel:voidstonePillar2>);
+mods.chisel.Groups.removeGroup("voidstonePillar");
+mods.chisel.Groups.removeGroup("voidstonePillar2");
+mods.chisel.Groups.addVariation("voidstone", <chisel:voidstonePillar:0>);
+mods.chisel.Groups.addVariation("voidstone2", <chisel:voidstonePillar2:0>);
+
 // add steelworks' limestone slabs to chiseling 
 mods.chisel.Groups.addVariation("limestone_slab", <TSteelworks:LimestoneSlab:0>);
 mods.chisel.Groups.addVariation("limestone_slab", <TSteelworks:LimestoneSlab:1>);
@@ -175,8 +183,34 @@ mods.chisel.Groups.removeVariation(<chisel:technical2:3>);
 mods.chisel.Groups.addVariation("technical", <chisel:technical3:0>);
 mods.chisel.Groups.addVariation("technical", <chisel:technical3:1>);
 
-// remove duplicated group
+// remove duplicated groups
 mods.chisel.Groups.removeGroup("factoryblock2");
+mods.chisel.Groups.removeGroup("voidstoneRunic");
 
 // remove runic glass chiseling
 oreDict.glass.remove(<runicdungeons:tile.runicGlass>);
+
+// move stone snakestone to stone chiseling
+mods.chisel.Groups.removeGroup("stonebrick");
+mods.chisel.Groups.addVariation("stonebricksmooth", <chisel:stone_snakestone:1>);
+mods.chisel.Groups.addVariation("stonebricksmooth", <chisel:stone_snakestone:13>);
+
+// move marble pillar slabs to marble slabs
+recipes.remove(<chisel:marble_pillar_slab>);
+mods.chisel.Groups.removeGroup("marble_pillar_slab");
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:0>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:1>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:2>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:3>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:4>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:5>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:6>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:7>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:8>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:9>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:10>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:11>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:12>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:13>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:14>);
+mods.chisel.Groups.addVariation("marble_slab", <chisel:marble_pillar_slab:15>);

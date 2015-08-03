@@ -3,7 +3,7 @@
 #### miscellaneous ####
 * disabled forge splash screen
 * disabled version checking for all possible mods
-* removed duplicated metal ingots/blocks, thermal stuff are the standard
+* removed duplicated metal ingots/blocks, thermal stuff is the standard
 
 #### vanilla ####
 * added 1.8 fences and door crafting recipes
@@ -69,6 +69,9 @@
 
 #### ender storage ####
 * increased inventory to 6x9
+
+#### forestry ####
+* disabled tin and copper generation
 
 #### helper tools ####
 * disabled milks
