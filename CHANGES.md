@@ -31,6 +31,7 @@
 #### botania ####
 * disabled normal flower particles
 * disabled references
+* disabled smokey quartz
 * reduced flower generation density by 37.5%
 * used alternate flower textures
 
@@ -66,6 +67,7 @@
 * added holding enchantment to the Enchanter
 * disabled furnace fuel value tooltip
 * enderman head is interchangeable with Iguana Tinker Tweaks
+* lowered volume of machine sounds by 50%
 
 #### ender storage ####
 * increased inventory to 6x9
@@ -129,6 +131,7 @@
 * added crafting recipe for green heart and green heart canister
 * added jerky to leather drying rack recipe
 * chainmail in the smeltery outputs iron instead of steel (shamelessly ripped off from the modpack "Regrowth")
+* disabled achievements
 * disabled ore bush generation (and villager trading of oreberries)
 * disabled ore gravel generation
 * disabled smeltery ore doubling
@@ -152,6 +155,7 @@
 #### twilight forest ####
 * disabled cicadas' sound
 * disabled uncrafting table
+* reduced canopy coverage by 30%
 
 #### waila (and add-ons) ####
 * disabled light level tooltips
