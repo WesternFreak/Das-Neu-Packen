@@ -24,6 +24,7 @@
 * disabled quartz tools (except knife)
 
 #### agricraft ####
+* added flax seeds that can be found breaking tall grass
 * breaking water tanks no longer spawns water source blocks
 * cactus seeds produce cactus blocks instead of green dye
 * enabled resource crops
