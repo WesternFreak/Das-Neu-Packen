@@ -1,5 +1,5 @@
 ![](http://i.imgur.com/kgvD98a.png)
-# _Das Neu Packen_ - a carefully crafted modded Minecraft modpack
+# _Das Neu Packen_ - a carefully crafted Minecraft modpack
 
 ## Mods included: ###
 You can find the current list, which is generated automatically [here](https://github.com/WesternFreak/Das-Neu-Packen/blob/master/Mod-List.txt).
